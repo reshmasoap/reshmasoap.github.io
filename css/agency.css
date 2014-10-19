@@ -728,6 +728,16 @@ footer span.copyright {
     line-height: 40px;
 }
 
+footer span.disclaimer {
+    margin-top: 20px;
+    font-size: 10px;
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 20px;
+}
+
+
 footer ul.quicklinks {
     margin-bottom: 0;
     text-transform: uppercase;
